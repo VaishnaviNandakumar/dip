@@ -28,7 +28,6 @@ mat2 = []
 ans = [[0,0,0],[0,0,0],[0,0,0]]
 
 for i in range(0, c1-2):
-   
     for j in range(0, r1-2):
         mat2 = []
         val = 0
